@@ -1,0 +1,14 @@
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\bin\Debug\net6.0\DAL.deps.json
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\bin\Debug\net6.0\DAL.dll
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\bin\Debug\net6.0\DAL.pdb
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\DAL.dll
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\refint\DAL.dll
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\DAL.pdb
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\ref\DAL.dll
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Y:\חדש-הנדסת תוכנה\תשפב\תשפג\שנה ב\סמינר\דיני קויט\פרויקט גמר\firstProj\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
